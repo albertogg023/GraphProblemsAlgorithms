@@ -1,7 +1,5 @@
 # GraphProblemsAlgorithms
 
-# Colección de Programas de Algoritmos de Grafos en C++
-
 Esta colección de programas en C++ resuelve diversos problemas de algoritmos de grafos y ha sido validada con miles de casos de prueba.
 
 ## Estructura del Repositorio
